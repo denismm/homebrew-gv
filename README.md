@@ -1,9 +1,11 @@
 # GV tap for homebrew
 
+I did the bare minimum of work to get this functional, not promising any updates.
+
 ## How do I install this formula?
 `brew install denismm/gv/gv`
 
-Theoretically you should be able to tap it and then `brew install gv` but that has not worked for me, even after pinning this tap.
+Or `brew tap denismm/gv` and then `brew install gv`.
 
 Or install via URL (which will not receive updates):
 

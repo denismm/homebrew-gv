@@ -1,4 +1,4 @@
-class GvAT374 < Formula
+class Gv < Formula
   desc "View and navigate through PostScript and PDF documents"
   homepage "https://www.gnu.org/s/gv/"
   url "https://ftp.gnu.org/gnu/gv/gv-3.7.4.tar.gz"
