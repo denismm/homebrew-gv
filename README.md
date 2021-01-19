@@ -2,7 +2,10 @@
 
 I did the bare minimum of work to get this functional, not promising any updates.
 
+Install XQuartz from https://www.xquartz.org/ before attempting this install.
+
 ## How do I install this formula?
+
 `brew install denismm/gv/gv`
 
 Or `brew tap denismm/gv` and then `brew install gv`.
